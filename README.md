@@ -1,1 +1,1 @@
-# Rock-Pape-ScissorGame
+Simple Rock-Pape-ScissorGame using JS
